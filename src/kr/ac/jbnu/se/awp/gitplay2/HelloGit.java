@@ -4,5 +4,6 @@ public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!!");
 		System.out.println("I'm Lim Jong Muk");
+		System.out.println("I'm MunHyunHo!!");
 	}
 }

@@ -6,5 +6,6 @@ public class HelloGit {
 		System.out.println("I'm Lim Jong Muk");
 		System.out.println("I'm MunHyunHo!!");
 		System.out.println("I'm Choi Jong Wan!");
+		System.out.println("I'm Choi sung woo!");
 	}
 }
